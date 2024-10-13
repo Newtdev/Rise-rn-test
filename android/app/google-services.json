@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585227666129",
+    "project_id": "Risevest-ff6e6",
+    "storage_bucket": "Risevest-ff6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585227666129:android:d823dd986b612959d67bf0",
+        "android_client_info": {
+          "package_name": "com.Risevest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNziWTsnMKa57RDIbp1NNF78UUyuNAmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
