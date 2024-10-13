@@ -1,3 +1,5 @@
+# Note to the reviewer: The collaborator on this project (Propser) helped in pushing the source code because for one reason or the other I can not push to an empty git repository.
+
 # Thought Process: Rise RN Test
 
 ## Initial Analysis
